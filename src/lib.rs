@@ -163,3 +163,5 @@ impl TaskManagerPro {
 // 1: feat: add task deadline extension with admin appro
 
 // 2: feat: implement contributor reputation storage
+
+// 3: feat: add batch task creation for project managers
