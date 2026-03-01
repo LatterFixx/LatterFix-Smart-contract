@@ -165,3 +165,5 @@ impl TaskManagerPro {
 // 2: feat: implement contributor reputation storage
 
 // 3: feat: add batch task creation for project managers
+
+// 4: fix: prevent assignment to blacklisted addresses
