@@ -169,3 +169,5 @@ impl TaskManagerPro {
 // 4: fix: prevent assignment to blacklisted addresses
 
 // 5: feat: add emergency withdrawal for admin
+
+// 6: test: add fuzzing tests for payment arithmetic
