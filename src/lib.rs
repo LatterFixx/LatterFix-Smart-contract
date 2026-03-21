@@ -173,3 +173,5 @@ impl TaskManagerPro {
 // 6: test: add fuzzing tests for payment arithmetic
 
 // 7: feat: implement milestone-based partial payments
+
+// 8: fix: resolve reentrancy in complete_task
