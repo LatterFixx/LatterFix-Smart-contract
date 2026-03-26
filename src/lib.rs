@@ -175,3 +175,5 @@ impl TaskManagerPro {
 // 7: feat: implement milestone-based partial payments
 
 // 8: fix: resolve reentrancy in complete_task
+
+// 9: feat: add get_open_tasks paginated query
