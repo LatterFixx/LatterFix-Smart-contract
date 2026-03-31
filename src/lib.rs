@@ -177,3 +177,5 @@ impl TaskManagerPro {
 // 8: fix: resolve reentrancy in complete_task
 
 // 9: feat: add get_open_tasks paginated query
+
+// 10: chore: optimize WASM binary size
